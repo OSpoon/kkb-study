@@ -1,0 +1,17 @@
+{
+  "name": "jestjs",
+  "version": "1.0.0",
+  "description": "[Jest中文文档地址](https://jestjs.io/zh-Hans/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.0"
+  }
+}
